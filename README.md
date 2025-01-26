@@ -96,7 +96,7 @@ We welcome contributions to improve this project. Feel free to fork the reposito
 
 ## **📧 Contact**
 For any questions or suggestions, please reach out:
-Developer: Kabirul Islam
-Email: kabir200123@gmail.com 
+Developer: Kabirul Islam;
+Email: kabir200123@gmail.com ;
 GitHub: https://github.com/Kabir-Islam
 
